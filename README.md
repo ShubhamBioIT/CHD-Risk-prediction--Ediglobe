@@ -2,7 +2,7 @@
 
 > A machine learning project to predict the **10-year risk of Coronary Heart Disease (CHD)** using clinical data from the Framingham Heart Study.
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
 ![Status](https://img.shields.io/badge/Status-Completed-green)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
